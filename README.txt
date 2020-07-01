@@ -1,3 +1,6 @@
+Implemented a fixed size multi-threaded file system from very scratch level, which is supported by a few basic operations like touch, mkdir, cp, mv, rm etc.
+
+
 ---------------------------------------
 1.1     FILE SYSTEM Constrains :
 ---------------------------------------
